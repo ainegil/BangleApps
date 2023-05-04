@@ -4,9 +4,6 @@
 { //
 let drawTimeout;
   
- 
-
-// Actually draw the watch face
 let draw = function() {
   var centerx = g.getWidth() / 2;
   var centery = g.getHeight() / 2;
