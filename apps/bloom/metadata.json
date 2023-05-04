@@ -1,0 +1,16 @@
+{ "id": "bloom",
+  "name": "Bloom",
+  "shortName":"Bloom",
+  "icon": "app.png",
+  "version":"0.01",
+  "description": "Draws a flower by math. A test. Work in progrtess. Not optimzed in no way.",
+ "screenshots" : [ { "url":"screenshot.png" }],
+ "type":"app",   
+  "tags": "app",
+  "readme": "README.md", 
+ "supports": ["BANGLEJS2"],
+  "storage": [
+    {"name":"floral.app.js","url":"app.js"},
+    {"name":"floral.img","url":"app-icon.js","evaluate":true}
+  ]
+}
