@@ -5,8 +5,8 @@
   "version":"0.01",
   "description": "Draws a flower by math. A test. Work in progrtess. Not optimzed in no way.",
  "screenshots" : [ { "url":"screenshot.png" }],
- "type":"app",   
-  "tags": "app",
+ "type":"clock",   
+  "tags": ["clock", "test"],
   "readme": "README.md", 
  "supports": ["BANGLEJS2"],
   "storage": [
